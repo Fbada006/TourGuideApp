@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_culture"
+            android:title="@string/category_culture" />
+        <item
+            android:id="@+id/nav_religion"
+            android:title="@string/category_religion" />
+        <item
+            android:id="@+id/nav_hotels"
+            android:title="@string/category_hotels" />
+        <item
+            android:id="@+id/nav_landmarks"
+            android:title="@string/category_landmarks" />
+        <item
+            android:id="@+id/nav_sports"
+            android:title="@string/category_sports" />
+    </group>
+</menu>

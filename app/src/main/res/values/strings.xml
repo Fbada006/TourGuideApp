@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name" translatable="false">Mombasa Maps</string>
+
+    <!--This is the image description of the feature images-->
+    <string name="feature_helper_image_description">This is the image of the current feature on the list.</string>
+
+    <!-- Category name for entertainment [CHAR LIMIT=20] -->
+
+    <!-- Category name for the culture [CHAR LIMIT=20] -->
+    <string name="category_culture">Culture</string>
+
+    <!-- Category name for the landmarks [CHAR LIMIT=20] -->
+    <string name="category_landmarks">Landmarks</string>
+
+    <!-- Category name for the culture [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the landmarks [CHAR LIMIT=20] -->
+    <string name="category_sports">Sports</string>
+
+    <!-- Category name for the hospitals [CHAR LIMIT=20] -->
+    <string name="category_religion">Religion</string>
+
+    <!--Navigation header text-->
+    <string name="navigation_header">Mombasa Maps</string>
+
+    <!--Content description of the image landing page-->
+    <string name="landing_image_description">This is an image of a beach.</string>
+
+    <!--Main heading in th landing page-->
+    <string name="mombasa" translatable="false">Mombasa.</string>
+
+    <!--Description of mombasa-->
+    <string name="mombasa_description">A city in the coastal region of Kenya, Mombasa is the oldest and second-largest city in the country.
+    As of 2016, the city had a population of about 1.4 million people. The weather is mostly sunny and averages between 23°C and 30°C.</string>
+
+    <!--Copyright text-->
+    <string name="copyright" translatable="false">2018 M.S.A</string>
+
+    <!--Toast of the feature clicked-->
+    <string name="clicked_feature_toast">Name of feature clicked is:</string>
+
+    <!--Landmark and culture text-->
+    <string name="landmark_fort_jesus" translatable="false">Fort Jesus</string>
+    <string name="landmark_swahili_center" translatable="false">Swahili Cultural Centre</string>
+    <string name="landmark_gedi" translatable="false">The Gedi Ruins</string>
+    <string name="landmark_old_town" translatable="false">Old Town</string>
+    <string name="landmark_bombolulu_workshop" translatable="false">Bombolulu Workshops</string>
+    <string name="landmark_villages" translatable="false">Ngomongo Villages</string>
+    <string name="landmark_akamba" translatable="false">Akamba Handicrafts</string>
+    <string name="landmark_mamba" translatable="false">Mamba Village</string>
+    <string name="landmark_wasini" translatable="false">Wasini Island</string>
+    <string name="landmark_shimba" translatable="false">Shimba Hills</string>
+    <string name="landmark_address_fort_jesu" translatable="false">Nkuramah Road, Mombasa.</string>
+    <string name="landmark_address_swahili_center" translatable="false">Next to Mombasa Hospital.</string>
+    <string name="landmark_address_gedi" translatable="false">Off Watamu Road, Gede.</string>
+    <string name="landmark_address_old_town" translatable="false">Southeast of Mombasa</string>
+    <string name="landmark_address_bombolulu_workshop" translatable="false">Workshop Road, Mombasa</string>
+    <string name="landmark_address_villages" translatable="false">Off Serena Road, Mombasa.</string>
+    <string name="landmark_address_akamba" translatable="false">Off Airport Road, Mombasa.</string>
+    <string name="landmark_address_mamba" translatable="false">Nkuramah Road, Mombasa</string>
+    <string name="landmark_address_wasini" translatable="false">Nkuramah Road, Mombasa</string>
+    <string name="landmark_address_shimba" translatable="false">Nkuramah Road, Mombasa</string>
+    <string name="landmark_year" translatable="false">1596</string>
+    <string name="landmark_year_unavailable" translatable="false">Year not available</string>
+
+    <!--Hotels strings-->
+    <string name="hotels_sarova" translatable="false">Sarova Whitesands Hotel</string>
+    <string name="hotels_serena" translatable="false">Serena Beach Hotel</string>
+    <string name="hotels_neptune" translatable="false">Neptune Beach Resort</string>
+    <string name="hotels_pride" translatable="false">PrideInn Paradise Beach Resort</string>
+    <string name="hotels_kahama" translatable="false"><![CDATA[Kahama Hotel & Sports Bar]]></string>
+    <string name="hotels_travellers" translatable="false">Travellers Beach Hotel</string>
+    <string name="hotels_voyager" translatable="false">Voyager Beach Resort</string>
+    <string name="hotels_reef" translatable="false">The Reef Hotel Mombasa</string>
+    <string name="hotels_palm" translatable="false">New Palm Tree Hotel</string>
+    <string name="hotels_bay" translatable="false">Kenya Bay Beach Hotel</string>
+    <string name="hotels_address_sarova" translatable="false">Off Malindi Road, Mombasa.</string>
+    <string name="hotels_address_serena" translatable="false">Next to Mombasa Hospital.</string>
+    <string name="hotels_address_neptune" translatable="false">Off Malindi Road, Mombasa.</string>
+    <string name="hotels_address_pride" translatable="false">Off Malindi Road, Mombasa.</string>
+    <string name="hotels_address_kahama" translatable="false">Off Malindi Road, Mombasa.</string>
+    <string name="hotels_address_travellers" translatable="false">Off Malindi Road, Mombasa.</string>
+    <string name="hotels_address_voyager" translatable="false">Off Malindi Road, Mombasa.</string>
+    <string name="hotels_address_reef" translatable="false">Off Malindi Road, Mombasa.</string>
+    <string name="hotels_address_palm" translatable="false">Off Malindi Road, Mombasa.</string>
+    <string name="hotels_address_bay" translatable="false">Off Malindi Road, Mombasa.</string>
+
+    <!--Sports-->
+    <string name="sports_mombasa" translatable="false">Mombasa Sports House</string>
+    <string name="sports_address" translatable="false">Moi Avenue.</string>
+
+    <!--Religion-->
+    <string name="religion_vineyard" translatable="false">Vineyard Church Mombasa</string>
+    <string name="religion_cathedral" translatable="false">Holy Ghost Cathedral</string>
+    <string name="religion_pentecostal" translatable="false">The Mombasa Pentecostal Church</string>
+    <string name="religion_celebration" translatable="false">Jesus Celebration Centre</string>
+    <string name="religion_address_vineyarf" translatable="false">Mt Kenya Road, Nyali.</string>
+    <string name="religion_address_cathedral" translatable="false">Mombasa CBD, Nkrumah Rd.</string>
+    <string name="religion_address_pentecostal" translatable="false">Mombasa Road, Biashara Street.</string>
+    <string name="religion_address_celebration" translatable="false">Ronald Ngala Rd</string>
+
+
+</resources>
